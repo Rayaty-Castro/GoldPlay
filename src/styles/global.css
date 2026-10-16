@@ -1,0 +1,30 @@
+/* reset*/
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-brand: #f5b700;
+    --color-foreground: #f9f9f9;
+    --color-black: #1a1a1a;
+    --color-gray: #2a2a2a;
+    --color-surface: #2a2a35;
+    
+    --font-size-h1: 40px;
+    --font-size-h2: 35px;
+    --font-size-h3: 30px;
+    --font-size-h4: 25px;
+    --font-size-h5: 20px;
+    
+    /* pegar fonte: google fontes */
+    --font-title: "Bebas Neue", sans-serif;
+    --font-body: "Inter", sans-serif;
+
+
+}
+
